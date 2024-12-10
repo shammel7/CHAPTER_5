@@ -1,5 +1,5 @@
 # CHAPTER_5
-Flutter( Mobile App Development)
+# Understanding the Widget Tree
 
  Flutter project with the home.dart file open, defining a _HomeState class that extends State<Home>. The UI consists of a scaffold with nested widgets, including rows, columns, dividers, and a Text widget displaying "End of the Line." The app is running on an emulator, displaying a visual representation of the widget tree with colorful rectangles and a green circular container.
 
